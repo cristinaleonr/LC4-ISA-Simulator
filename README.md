@@ -1,8 +1,9 @@
 <h1>LC4-ISA-Simulator</h1>
 
-Assembly-level similator of the LC4 Instruction Set Architecture (ISA)
+Assembly-level simulator of the LC4 Instruction Set Architecture (ISA)
 
-Execution
+Execution 
+
 ./trace –m 0x---- output_filename.txt first.obj 
 
 Arguments
